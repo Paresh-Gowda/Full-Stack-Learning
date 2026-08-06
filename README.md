@@ -1,4 +1,4 @@
-# 💻 Full Stack Learning
+# 💻 Full Stack Learning Journey
 
 Welcome to my Full Stack Learning repository! This repository contains my learning journey as I explore full stack development, practice new concepts, and build projects along the way.
 
