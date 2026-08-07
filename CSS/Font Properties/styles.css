@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+}
+#one {
+    color: coral;
+}
+#two {
+    font-size: 2rex;
+}
+#three {
+    font-weight: 900;
+}
+#four {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#five {
+    text-align: right;
+}
+html {
+    font-size: 30px;
+}
