@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    padding: 50px;
+    background: linear-gradient(135deg, #66bfbf, #a8e6cf);
+}
+
+.header h1{
+    font-size: 2rem;
+    margin: 0 100px;
+}
+.intro {
+    text-align: center;
+    flex: 1;
+}
+.intro h1 {
+    font-size: 4rem;
+    margin: 0;
+}
+.intro h2 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+.resume {
+    text-align: center;
+    margin-top: 50px;
+    color: grey;
+    font-size: 1.2rem;
+}
+.resume a {
+    color: #66bfbf;
+}
+.resume img {
+    margin: 10px;
+    height: 200px;
+    border-radius: 50px;
+}
+.skills {
+    background-color: #e8f8f8;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.skills-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    padding: 25px;
+    margin-top: 20px;;
+}
+.skills-list {
+    text-align: left;
+}
+.contact {
+    text-align: center;
+    margin: 20px;
+    padding: 20px; 
+    color: #66bfbf;
+}
+.box {
+    margin: 30px auto;
+    padding: 20px;
+    width: 200px;
+    background-color: #66bfbf;
+    color: white;
+    border-radius: 20px;
+    display: block;
+    font-size: large;
+}
+.footer {
+    padding: 30px;
+    background-color: #66bfbf;
+    text-align: center;
+    color: white;
+}
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.social-links a {
+    color: #0c8585;
+}
