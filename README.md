@@ -5,12 +5,14 @@ It includes my hands-on exercises, mini projects, and applications that I build 
 
 ## 📁 Repository Structure
 
-```text
+```
 📦 Full-Stack-Learning
 │
 ├── 📂 HTML
 │
 ├── 📂 CSS
+│
+├── 📂 JS
 │
 ├── 📄 README.md
 ```
