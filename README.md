@@ -18,5 +18,7 @@ It includes my hands-on exercises, mini projects, and applications that I build 
 │
 ├── 📂 API
 │
+├── 📂 PostgreSQL
+│
 ├── 📄 README.md
 ```
