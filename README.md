@@ -20,5 +20,7 @@ It includes my hands-on exercises, mini projects, and applications that I build 
 │
 ├── 📂 PostgreSQL
 │
+├── 📂 Authentication and Security
+│
 ├── 📄 README.md
 ```
