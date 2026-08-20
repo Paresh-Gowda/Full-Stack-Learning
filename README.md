@@ -25,5 +25,7 @@ This repository will continue to grow as I learn new technologies, build more pr
 │
 ├── 📂 Authentication and Security
 │
+├── 📂 React
+│
 ├── 📄 README.md
 ```
